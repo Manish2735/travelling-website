@@ -50,7 +50,7 @@ section .home {
 .home .home-box{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url(1524478881_shutterstock_418380280.avif);
+    background: linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url(1524478881_shutterstock_418380280.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -376,7 +376,7 @@ section .home {
 /* feedback section start here  */
 .feedback{
     /* position: relative; */
-    background-image: url("pexels-sara-8693-63340.jpg");
+    background-image: url("pexels-sara-8693-63340.webp");
     background-position: center;
     background-size: cover;
     margin-top: 6rem;
